@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: newman
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://newmanwang1001.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "王新贵"
+  email: 421720415@qq.com
   bio: ""
 
 # Data
@@ -18,8 +18,8 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: WANGNEWMAN
+weibo_username: no way
 facebook_username:
 zhihu_username: zhang-yi-sen-46
 
